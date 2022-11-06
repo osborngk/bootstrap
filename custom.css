@@ -1,0 +1,81 @@
+
+body { font-family: 'Merriweather', serif; font-size: 1rem; word-spacing: .1rem;}
+
+/* Home */
+#home{
+    background-color:#f4efe1;
+}
+.carousel{
+    width: 85%;
+    padding-left: 160px;
+}
+
+.btn-primary{
+    background-color: #056a2f;
+    text-align: center;
+}
+.btn-primary:hover{
+    background-color: #056a2f;
+}
+.fa-solid{
+    padding: 10px
+}
+.navbar{
+    height: 100px;
+    }
+
+.container
+
+/* Teams */
+.img-team {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	width: 400px
+
+}
+
+/* Coaches */
+#coletta {
+	padding-left: 50px;
+	padding-right: 500px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+#ross {
+	padding-left: 50px;
+	padding-right: 500px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+#hagner {
+	padding-left: 50px;
+	padding-right: 500px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.img-coach{
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	width: 400px
+}
+
+/* Sponsors */
+.img-sponsor {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	width: 1000px
+}
+
+
+
+
+
