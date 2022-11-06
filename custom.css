@@ -2,8 +2,8 @@
 body { font-family: 'Merriweather', serif; font-size: 1rem; word-spacing: .1rem;}
 
 /* Home */
-#home{
-    background-color:#f4efe1;
+#home {
+    background-color: #f4efe1;
 }
 .carousel{
     width: 85%;
@@ -14,9 +14,7 @@ body { font-family: 'Merriweather', serif; font-size: 1rem; word-spacing: .1rem;
     background-color: #056a2f;
     text-align: center;
 }
-.btn-primary:hover{
-    background-color: #056a2f;
-}
+
 .fa-solid{
     padding: 10px
 }
@@ -27,16 +25,24 @@ body { font-family: 'Merriweather', serif; font-size: 1rem; word-spacing: .1rem;
 .container
 
 /* Teams */
+#teams {
+	background-color: #056a2f;
+}
+
 .img-team {
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 25px;
 	padding-bottom: 50px;
 	width: 400px
-
 }
 
+
 /* Coaches */
+#home {
+    background-color: #f4efe1;
+}
+
 #coletta {
 	padding-left: 50px;
 	padding-right: 500px;
@@ -67,6 +73,11 @@ body { font-family: 'Merriweather', serif; font-size: 1rem; word-spacing: .1rem;
 }
 
 /* Sponsors */
+#sponsors {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
 .img-sponsor {
 	margin-left: auto;
 	margin-right: auto;
@@ -75,7 +86,14 @@ body { font-family: 'Merriweather', serif; font-size: 1rem; word-spacing: .1rem;
 	width: 1000px
 }
 
+/* Photo Gallery */
+#photo {
+	padding-top: 0;
+	padding-bottom: 0;
+}
 
-
-
-
+/* Citations */
+#citations{
+    color: #fff;
+    text-align: center;
+}
