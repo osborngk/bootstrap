@@ -15,6 +15,10 @@ body { font-family: 'Merriweather', serif; font-size: 1rem; word-spacing: .1rem;
     text-align: center;
 }
 
+.btn-primary2{
+	background-color: #FFFFFF;
+    text-align: center;
+}
 .fa-solid{
     padding: 10px
 }
